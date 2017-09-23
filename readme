@@ -1,0 +1,5 @@
+本次内容较为简单只是简单的实现验证码存储的redis缓存中，
+内容涉及到Django自带的验证，装饰器，模板使用等
+基于Python3，Django1.11，redis-4.8，Django-redis-2.10
+关于Django的redis setting配置问题源码中已有设计如有疑问可在博客园中
+https://home.cnblogs.com/u/jingqi/ 给本人留言，学习阶段，共同进步
