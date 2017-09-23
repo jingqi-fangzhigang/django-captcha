@@ -1,0 +1,15 @@
+
+.content-box{
+	/*外边距塌陷*/
+	margin-top: 80px;   /*设置上外边距*/
+	overflow: hidden;   /*设置文本超出后的显示方式，hidden：隐藏，scroll：回滚*/
+}
+
+h1{
+	text-align: center; /*文本水平对齐方式，center：居中，left：靠左，right：靠右*/
+}
+
+.container{
+	width: 400px;
+	padding-top: 20px;  /*文本上内边距*/
+}

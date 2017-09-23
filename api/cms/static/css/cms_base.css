@@ -1,0 +1,13 @@
+
+.page-box{
+	margin-top: 50px;
+}
+
+.dropdown-toggle:hover .caret{
+	transform: rotateZ(180deg); /*Z轴旋转180度*/
+}
+
+/*修改默认点击弹出dropdown的样式,修改为鼠标移动上去就直接弹出*/
+.dropdown:hover .dropdown-menu{
+	display: block;             /*此元素将显示为块级元素，此元素前后会带有换行符*/
+}
